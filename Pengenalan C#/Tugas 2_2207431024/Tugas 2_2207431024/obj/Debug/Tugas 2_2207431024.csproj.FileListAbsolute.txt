@@ -1,0 +1,7 @@
+D:\Semester 3\Object Oriented Programming\C# Code\Tugas 2_2207431024\Tugas 2_2207431024\bin\Debug\Tugas 2_2207431024.exe.config
+D:\Semester 3\Object Oriented Programming\C# Code\Tugas 2_2207431024\Tugas 2_2207431024\bin\Debug\Tugas 2_2207431024.exe
+D:\Semester 3\Object Oriented Programming\C# Code\Tugas 2_2207431024\Tugas 2_2207431024\bin\Debug\Tugas 2_2207431024.pdb
+D:\Semester 3\Object Oriented Programming\C# Code\Tugas 2_2207431024\Tugas 2_2207431024\obj\Debug\Tugas 2_2207431024.csproj.CoreCompileInputs.cache
+D:\Semester 3\Object Oriented Programming\C# Code\Tugas 2_2207431024\Tugas 2_2207431024\obj\Debug\Tugas 2_2207431024.exe
+D:\Semester 3\Object Oriented Programming\C# Code\Tugas 2_2207431024\Tugas 2_2207431024\obj\Debug\Tugas 2_2207431024.pdb
+D:\Semester 3\Object Oriented Programming\C# Code\Tugas 2_2207431024\Tugas 2_2207431024\obj\Debug\Tugas 2_2207431024.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator\Perbandingan\Perbandingan\bin\Debug\Perbandingan.exe.config
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator\Perbandingan\Perbandingan\bin\Debug\Perbandingan.exe
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator\Perbandingan\Perbandingan\bin\Debug\Perbandingan.pdb
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator\Perbandingan\Perbandingan\obj\Debug\Perbandingan.csproj.AssemblyReference.cache
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator\Perbandingan\Perbandingan\obj\Debug\Perbandingan.csproj.CoreCompileInputs.cache
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator\Perbandingan\Perbandingan\obj\Debug\Perbandingan.exe
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator\Perbandingan\Perbandingan\obj\Debug\Perbandingan.pdb

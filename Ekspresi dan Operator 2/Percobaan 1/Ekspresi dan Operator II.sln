@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ekspresi dan Operator II", "Ekspresi dan Operator II\Ekspresi dan Operator II.csproj", "{592BA6DA-47DD-402C-99A2-2BAE90473101}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{592BA6DA-47DD-402C-99A2-2BAE90473101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{592BA6DA-47DD-402C-99A2-2BAE90473101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{592BA6DA-47DD-402C-99A2-2BAE90473101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{592BA6DA-47DD-402C-99A2-2BAE90473101}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7D26E97-40C4-46DF-8695-A83F871A7392}
+	EndGlobalSection
+EndGlobal

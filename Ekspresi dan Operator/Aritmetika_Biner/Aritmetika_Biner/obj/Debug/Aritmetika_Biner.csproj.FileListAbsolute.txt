@@ -1,0 +1,7 @@
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator\Aritmetika_Biner\Aritmetika_Biner\bin\Debug\Aritmetika_Biner.exe.config
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator\Aritmetika_Biner\Aritmetika_Biner\bin\Debug\Aritmetika_Biner.exe
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator\Aritmetika_Biner\Aritmetika_Biner\bin\Debug\Aritmetika_Biner.pdb
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator\Aritmetika_Biner\Aritmetika_Biner\obj\Debug\Aritmetika_Biner.csproj.AssemblyReference.cache
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator\Aritmetika_Biner\Aritmetika_Biner\obj\Debug\Aritmetika_Biner.csproj.CoreCompileInputs.cache
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator\Aritmetika_Biner\Aritmetika_Biner\obj\Debug\Aritmetika_Biner.exe
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator\Aritmetika_Biner\Aritmetika_Biner\obj\Debug\Aritmetika_Biner.pdb

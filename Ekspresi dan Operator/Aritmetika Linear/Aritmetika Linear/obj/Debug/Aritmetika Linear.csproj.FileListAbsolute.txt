@@ -1,0 +1,6 @@
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator\Aritmetika Linear\Aritmetika Linear\bin\Debug\Aritmetika Linear.exe.config
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator\Aritmetika Linear\Aritmetika Linear\bin\Debug\Aritmetika Linear.exe
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator\Aritmetika Linear\Aritmetika Linear\bin\Debug\Aritmetika Linear.pdb
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator\Aritmetika Linear\Aritmetika Linear\obj\Debug\Aritmetika Linear.csproj.CoreCompileInputs.cache
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator\Aritmetika Linear\Aritmetika Linear\obj\Debug\Aritmetika Linear.exe
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator\Aritmetika Linear\Aritmetika Linear\obj\Debug\Aritmetika Linear.pdb

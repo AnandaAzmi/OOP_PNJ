@@ -1,0 +1,6 @@
+D:\Semester 3\Object Oriented Programming\Memilih minuman\Memilih minuman\bin\Debug\Memilih minuman.exe.config
+D:\Semester 3\Object Oriented Programming\Memilih minuman\Memilih minuman\bin\Debug\Memilih minuman.exe
+D:\Semester 3\Object Oriented Programming\Memilih minuman\Memilih minuman\bin\Debug\Memilih minuman.pdb
+D:\Semester 3\Object Oriented Programming\Memilih minuman\Memilih minuman\obj\Debug\Memilih minuman.csproj.CoreCompileInputs.cache
+D:\Semester 3\Object Oriented Programming\Memilih minuman\Memilih minuman\obj\Debug\Memilih minuman.exe
+D:\Semester 3\Object Oriented Programming\Memilih minuman\Memilih minuman\obj\Debug\Memilih minuman.pdb

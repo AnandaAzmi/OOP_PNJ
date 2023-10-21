@@ -1,0 +1,7 @@
+D:\Semester 3\Object Oriented Programming\Bioskop_024\Bioskop_024\bin\Debug\Bioskop_024.exe.config
+D:\Semester 3\Object Oriented Programming\Bioskop_024\Bioskop_024\bin\Debug\Bioskop_024.exe
+D:\Semester 3\Object Oriented Programming\Bioskop_024\Bioskop_024\bin\Debug\Bioskop_024.pdb
+D:\Semester 3\Object Oriented Programming\Bioskop_024\Bioskop_024\obj\Debug\Bioskop_024.csproj.AssemblyReference.cache
+D:\Semester 3\Object Oriented Programming\Bioskop_024\Bioskop_024\obj\Debug\Bioskop_024.csproj.CoreCompileInputs.cache
+D:\Semester 3\Object Oriented Programming\Bioskop_024\Bioskop_024\obj\Debug\Bioskop_024.exe
+D:\Semester 3\Object Oriented Programming\Bioskop_024\Bioskop_024\obj\Debug\Bioskop_024.pdb

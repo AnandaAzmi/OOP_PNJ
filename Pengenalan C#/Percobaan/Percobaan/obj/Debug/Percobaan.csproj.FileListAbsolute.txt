@@ -1,0 +1,7 @@
+D:\Semester 3\Object Oriented Programming\C# Code\Percobaan\Percobaan\bin\Debug\Percobaan.exe.config
+D:\Semester 3\Object Oriented Programming\C# Code\Percobaan\Percobaan\bin\Debug\Percobaan.exe
+D:\Semester 3\Object Oriented Programming\C# Code\Percobaan\Percobaan\bin\Debug\Percobaan.pdb
+D:\Semester 3\Object Oriented Programming\C# Code\Percobaan\Percobaan\obj\Debug\Percobaan.csproj.AssemblyReference.cache
+D:\Semester 3\Object Oriented Programming\C# Code\Percobaan\Percobaan\obj\Debug\Percobaan.csproj.CoreCompileInputs.cache
+D:\Semester 3\Object Oriented Programming\C# Code\Percobaan\Percobaan\obj\Debug\Percobaan.exe
+D:\Semester 3\Object Oriented Programming\C# Code\Percobaan\Percobaan\obj\Debug\Percobaan.pdb

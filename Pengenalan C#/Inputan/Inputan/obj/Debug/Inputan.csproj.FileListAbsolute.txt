@@ -1,0 +1,6 @@
+D:\Semester 3\Object Oriented Programming\C# Code\Inputan\Inputan\bin\Debug\Inputan.exe.config
+D:\Semester 3\Object Oriented Programming\C# Code\Inputan\Inputan\bin\Debug\Inputan.exe
+D:\Semester 3\Object Oriented Programming\C# Code\Inputan\Inputan\bin\Debug\Inputan.pdb
+D:\Semester 3\Object Oriented Programming\C# Code\Inputan\Inputan\obj\Debug\Inputan.csproj.CoreCompileInputs.cache
+D:\Semester 3\Object Oriented Programming\C# Code\Inputan\Inputan\obj\Debug\Inputan.exe
+D:\Semester 3\Object Oriented Programming\C# Code\Inputan\Inputan\obj\Debug\Inputan.pdb

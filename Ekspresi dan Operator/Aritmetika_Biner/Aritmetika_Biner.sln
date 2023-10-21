@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aritmetika_Biner", "Aritmetika_Biner\Aritmetika_Biner.csproj", "{C297AF2F-6B52-4063-A9DE-EC4DAF0B1A5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C297AF2F-6B52-4063-A9DE-EC4DAF0B1A5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C297AF2F-6B52-4063-A9DE-EC4DAF0B1A5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C297AF2F-6B52-4063-A9DE-EC4DAF0B1A5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C297AF2F-6B52-4063-A9DE-EC4DAF0B1A5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB17623A-EB6B-4E2D-ABF3-D356C2A51FE2}
+	EndGlobalSection
+EndGlobal

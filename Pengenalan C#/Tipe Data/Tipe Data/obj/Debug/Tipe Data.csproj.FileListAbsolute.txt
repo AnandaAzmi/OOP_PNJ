@@ -1,0 +1,7 @@
+D:\Semester 3\Object Oriented Programming\C# Code\Tipe Data\Tipe Data\bin\Debug\Tipe Data.exe.config
+D:\Semester 3\Object Oriented Programming\C# Code\Tipe Data\Tipe Data\bin\Debug\Tipe Data.exe
+D:\Semester 3\Object Oriented Programming\C# Code\Tipe Data\Tipe Data\bin\Debug\Tipe Data.pdb
+D:\Semester 3\Object Oriented Programming\C# Code\Tipe Data\Tipe Data\obj\Debug\Tipe Data.csproj.CoreCompileInputs.cache
+D:\Semester 3\Object Oriented Programming\C# Code\Tipe Data\Tipe Data\obj\Debug\Tipe Data.exe
+D:\Semester 3\Object Oriented Programming\C# Code\Tipe Data\Tipe Data\obj\Debug\Tipe Data.pdb
+D:\Semester 3\Object Oriented Programming\C# Code\Tipe Data\Tipe Data\obj\Debug\Tipe Data.csproj.AssemblyReference.cache

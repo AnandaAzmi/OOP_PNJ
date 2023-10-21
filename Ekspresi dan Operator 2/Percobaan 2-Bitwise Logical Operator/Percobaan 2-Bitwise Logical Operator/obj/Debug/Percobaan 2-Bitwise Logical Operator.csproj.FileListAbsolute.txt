@@ -1,0 +1,7 @@
+D:\Semester 3\Object Oriented Programming\Percobaan 2-Bitwise Logical Operator\Percobaan 2-Bitwise Logical Operator\bin\Debug\Percobaan 2-Bitwise Logical Operator.exe.config
+D:\Semester 3\Object Oriented Programming\Percobaan 2-Bitwise Logical Operator\Percobaan 2-Bitwise Logical Operator\bin\Debug\Percobaan 2-Bitwise Logical Operator.exe
+D:\Semester 3\Object Oriented Programming\Percobaan 2-Bitwise Logical Operator\Percobaan 2-Bitwise Logical Operator\bin\Debug\Percobaan 2-Bitwise Logical Operator.pdb
+D:\Semester 3\Object Oriented Programming\Percobaan 2-Bitwise Logical Operator\Percobaan 2-Bitwise Logical Operator\obj\Debug\Percobaan 2-Bitwise Logical Operator.csproj.AssemblyReference.cache
+D:\Semester 3\Object Oriented Programming\Percobaan 2-Bitwise Logical Operator\Percobaan 2-Bitwise Logical Operator\obj\Debug\Percobaan 2-Bitwise Logical Operator.csproj.CoreCompileInputs.cache
+D:\Semester 3\Object Oriented Programming\Percobaan 2-Bitwise Logical Operator\Percobaan 2-Bitwise Logical Operator\obj\Debug\Percobaan 2-Bitwise Logical Operator.exe
+D:\Semester 3\Object Oriented Programming\Percobaan 2-Bitwise Logical Operator\Percobaan 2-Bitwise Logical Operator\obj\Debug\Percobaan 2-Bitwise Logical Operator.pdb

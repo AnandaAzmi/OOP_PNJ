@@ -1,0 +1,7 @@
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator\Kesetaraan\Kesetaraan\bin\Debug\Kesetaraan.exe.config
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator\Kesetaraan\Kesetaraan\bin\Debug\Kesetaraan.exe
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator\Kesetaraan\Kesetaraan\bin\Debug\Kesetaraan.pdb
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator\Kesetaraan\Kesetaraan\obj\Debug\Kesetaraan.csproj.AssemblyReference.cache
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator\Kesetaraan\Kesetaraan\obj\Debug\Kesetaraan.csproj.CoreCompileInputs.cache
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator\Kesetaraan\Kesetaraan\obj\Debug\Kesetaraan.exe
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator\Kesetaraan\Kesetaraan\obj\Debug\Kesetaraan.pdb

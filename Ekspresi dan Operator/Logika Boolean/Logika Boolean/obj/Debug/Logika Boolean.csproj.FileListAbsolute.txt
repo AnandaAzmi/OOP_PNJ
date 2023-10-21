@@ -1,0 +1,7 @@
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator\Logika Boolean\Logika Boolean\bin\Debug\Logika Boolean.exe.config
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator\Logika Boolean\Logika Boolean\bin\Debug\Logika Boolean.exe
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator\Logika Boolean\Logika Boolean\bin\Debug\Logika Boolean.pdb
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator\Logika Boolean\Logika Boolean\obj\Debug\Logika Boolean.csproj.AssemblyReference.cache
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator\Logika Boolean\Logika Boolean\obj\Debug\Logika Boolean.csproj.CoreCompileInputs.cache
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator\Logika Boolean\Logika Boolean\obj\Debug\Logika Boolean.exe
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator\Logika Boolean\Logika Boolean\obj\Debug\Logika Boolean.pdb

@@ -1,0 +1,7 @@
+D:\Semester 3\Object Oriented Programming\C# Code\Mencetak Karakter\Mencetak Karakter\bin\Debug\Mencetak Karakter.exe.config
+D:\Semester 3\Object Oriented Programming\C# Code\Mencetak Karakter\Mencetak Karakter\bin\Debug\Mencetak Karakter.exe
+D:\Semester 3\Object Oriented Programming\C# Code\Mencetak Karakter\Mencetak Karakter\bin\Debug\Mencetak Karakter.pdb
+D:\Semester 3\Object Oriented Programming\C# Code\Mencetak Karakter\Mencetak Karakter\obj\Debug\Mencetak Karakter.csproj.AssemblyReference.cache
+D:\Semester 3\Object Oriented Programming\C# Code\Mencetak Karakter\Mencetak Karakter\obj\Debug\Mencetak Karakter.csproj.CoreCompileInputs.cache
+D:\Semester 3\Object Oriented Programming\C# Code\Mencetak Karakter\Mencetak Karakter\obj\Debug\Mencetak Karakter.exe
+D:\Semester 3\Object Oriented Programming\C# Code\Mencetak Karakter\Mencetak Karakter\obj\Debug\Mencetak Karakter.pdb

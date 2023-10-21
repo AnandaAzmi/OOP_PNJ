@@ -1,0 +1,7 @@
+D:\Semester 3\Object Oriented Programming\Percobaan 3 Bit Shift\Percobaan 3 Bit Shift\bin\Debug\Percobaan 3 Bit Shift.exe.config
+D:\Semester 3\Object Oriented Programming\Percobaan 3 Bit Shift\Percobaan 3 Bit Shift\bin\Debug\Percobaan 3 Bit Shift.exe
+D:\Semester 3\Object Oriented Programming\Percobaan 3 Bit Shift\Percobaan 3 Bit Shift\bin\Debug\Percobaan 3 Bit Shift.pdb
+D:\Semester 3\Object Oriented Programming\Percobaan 3 Bit Shift\Percobaan 3 Bit Shift\obj\Debug\Percobaan 3 Bit Shift.csproj.AssemblyReference.cache
+D:\Semester 3\Object Oriented Programming\Percobaan 3 Bit Shift\Percobaan 3 Bit Shift\obj\Debug\Percobaan 3 Bit Shift.csproj.CoreCompileInputs.cache
+D:\Semester 3\Object Oriented Programming\Percobaan 3 Bit Shift\Percobaan 3 Bit Shift\obj\Debug\Percobaan 3 Bit Shift.exe
+D:\Semester 3\Object Oriented Programming\Percobaan 3 Bit Shift\Percobaan 3 Bit Shift\obj\Debug\Percobaan 3 Bit Shift.pdb

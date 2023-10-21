@@ -1,0 +1,7 @@
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator II\Ekspresi dan Operator II\bin\Debug\Ekspresi dan Operator II.exe.config
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator II\Ekspresi dan Operator II\bin\Debug\Ekspresi dan Operator II.exe
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator II\Ekspresi dan Operator II\bin\Debug\Ekspresi dan Operator II.pdb
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator II\Ekspresi dan Operator II\obj\Debug\Ekspresi dan Operator II.csproj.AssemblyReference.cache
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator II\Ekspresi dan Operator II\obj\Debug\Ekspresi dan Operator II.csproj.CoreCompileInputs.cache
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator II\Ekspresi dan Operator II\obj\Debug\Ekspresi dan Operator II.exe
+D:\Semester 3\Object Oriented Programming\Ekspresi dan Operator II\Ekspresi dan Operator II\obj\Debug\Ekspresi dan Operator II.pdb
